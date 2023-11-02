@@ -19,7 +19,7 @@ h1,h2,h3,h4{
     width:100%;
     height:800px;
     position:relative;
-    background-image: url("C:/Users/kajuu/OneDrive/Desktop/Web_Dev/Projects/Netflix/Background.jpg");
+    background-image: url("Background.jpg");
     background-size: no-repeat center center/cover;
     border-bottom:5px rgba(69,69,69) solid;
     box-shadow: 120px 200px 250px #000000,inset -120px -200px 250px #000000;
