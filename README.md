@@ -9,6 +9,9 @@
 # Installation
 The user can either download or clone this repository to their local machine The user can open the index.html file in any web browser to view the web page
 
+# Website link
+https://kajalmeshram11.github.io/Netflix_clone/#
+
 # Techologies Used
 * HTML
 * CSS
